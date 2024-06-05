@@ -1,6 +1,6 @@
 {
   "name": "electricityoff-datatransform",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Utils for data transformations from different provider's API into generic type",
   "main": "index.ts",
   "types": "index.d.ts",
