@@ -1,7 +1,5 @@
-import { OffTypeEnum } from "./models/offTypeEnum";
-import { AddressInterface } from "./models/addressInterface";
+import { addString } from "./utils/testUtil"
 
 export {
-    OffTypeEnum,
-    AddressInterface
+    addString
 };

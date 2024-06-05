@@ -1,7 +1,7 @@
 {
-  "name": "electricityoff-model",
-  "version": "1.0.7",
-  "description": "Interfaces for ElectricityOff apps",
+  "name": "electricityoff-datatransform",
+  "version": "1.0.1",
+  "description": "Utils for data transformations from different provider's API into generic type",
   "main": "index.ts",
   "types": "index.d.ts",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gzoreslav/electricityoff-model.git"
+    "url": "git+https://github.com/gzoreslav/electricityoff-datatransform.git"
   },
   "author": "Zoreslav Goral",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gzoreslav/electricityoff-model/issues"
+    "url": "https://github.com/gzoreslav/electricityoff-datatransform/issues"
   },
-  "homepage": "https://github.com/gzoreslav/electricityoff-model#readme",
+  "homepage": "https://github.com/gzoreslav/electricityoff-datatransform#readme",
   "dependencies": {
     "typescript": "^5.4.5"
   }
